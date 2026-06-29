@@ -1,7 +1,7 @@
 # CSA Digital Transformation — IT Portfolio Dashboard
 
 A bilingual (EN/FR) Project Portfolio Management (PPM) simulation built as a portfolio
-artifact for an **IT-02 Portfolio Manager** role in the federal public service. It
+artifact for a role in the federal public service. It
 demonstrates working fluency across the three tool domains a federal IT PM is expected
 to operate in — **executive portfolio governance (Clarity PPM)**, **schedule management
 (MS Project / Gantt)**, and **Agile delivery (Jira)** — in a single, self-contained
