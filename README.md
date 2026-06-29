@@ -37,9 +37,9 @@ spotlights each key area (BLUF, EVM matrix, scenario simulator, risk register, s
 sprint board, burndown), auto-switching views as it goes, in whichever language is active.
 It's there so the app can present *itself* — no pointing required.
 
-## Mapping to the IT-02 selection criteria
+## Mapping to the IT-XX selection criteria
 
-This artifact targets the CSA *IT-02 IT Analyst, IT Project Portfolio Management (Bilingual)*
+This artifact targets the CSA *IT-XX IT Analyst, IT Project Portfolio Management (Bilingual)*
 process. Each required skill is demonstrated by a concrete, clickable feature:
 
 | Selection-criteria skill | Where it shows in the app |
